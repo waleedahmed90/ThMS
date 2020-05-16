@@ -2,8 +2,7 @@
 
 An Implementation of FairDiv Algorithm for Fair Distribution of Goods among the Agents
 
-The code is a part of an ongoing project being led by Dr. Abhijnan Chakraborty (MPI-SWS) and Dr. Arpita Biswas Indian Institute 
-of Science.
+The code is a part of an ongoing project being led by Dr. Abhijnan Chakraborty (MPI-SWS) and Dr. Arpita Biswas (Indian Institute of Science)
 Domain Under Consideration is FAIRNESS IN ONLINE RECOMMENDER SYSTEMS and the present project falls under a broader category
 of HUMAN CENTERED MACHINE LEARNING
 
