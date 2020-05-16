@@ -1,0 +1,34 @@
+The ALGORITHM is implemented in the file titled "fairDivRec.py".
+The DATASET the code was ran on is "GL-CUSTOM.csv".
+The ALPHA is kept as 1.
+The CARDINALITY THRESHOLD k_h is also kept as 1.
+The value of k ranged from 1 to 20.
+The python script to PLOT the GRAPH is in the file "graph_fairDivRec.py"
+The Allocation sets and DETAILED OUTPUTS are in the filed titled "All_ks.txt"
+The GRAPH is saved as "FairDiv_Graph.png"
+
+Following values were obtained by running the ALGORITHM on the DATASET
+
+
+
+#[k]##########[H_FairRecDiv]##################[H_FairRec]############[Y_FairDiv]###
+##1	   	 1.0				0.4912			0.0291
+###2		 1.0				0.3859			0.0305
+##3		 1.0				0.350			0.0316
+##4		 1.0				0.458			0.0319
+##5		 1.0				0.409			0.0331
+##6		 1.0				0.340			0.0337
+##7		 1.0				0.409			0.0341
+##8		 1.0				0.441			0.0342
+##9		 1.0				0.351			0.0353
+#10		 1.0				0.307			0.0357
+#11		 1.0				0.364			0.0369
+#12		 1.0				0.344			0.0363
+#13		 1.0				0.352			0.0367
+#14		 1.0				0.389 			0.0376
+#15		 1.0				0.367 			0.0381
+#16		 1.0				0.375 			0.0351
+#17		 1.0				0.370 			0.0361
+#18		 1.0				0.396 			0.0367
+#19		 1.0				0.423 			0.0366
+#20	 	 1.0 				0.437			0.0372
