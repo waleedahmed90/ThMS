@@ -12,7 +12,7 @@ https://www.ijcai.org/Proceedings/2018/0013.pdf
 Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence (IJCAI-18)
 
 Link to the used dataset GL-CUSTOM.csv
-https://drive.google.com/open?id=1paZBZwy4h-E41HON8KHe5KnhdLLy-Aqy
+https://drive.google.com/file/d/1LYHmGE2vLxQYOKSsI5lHEnyc4qqT47fH/view?usp=sharing
 
 Later half of the code is based on the FairRec Code written by Gourab Kumar Patro present in the following link
 https://github.com/gourabkumarpatro/FairRec_www_2020
